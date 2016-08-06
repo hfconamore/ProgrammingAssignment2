@@ -43,8 +43,8 @@ cacheSolve <- function(x, ...) {
         message("calculating the inverse of the matrix as")
     }
     
+    ## Return a matrix that is the inverse of 'x'
     return(inverse)
-        ## Return a matrix that is the inverse of 'x'
 }
 
 
